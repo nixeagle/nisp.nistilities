@@ -1,5 +1,6 @@
-(defpackage #:nistilities
+(defpackage #:nisp.nistilities
   (:use :cl :lift)
+  (:nicknames #:nistilities)
   (:export #:define-constant
            #:strip-newlines
            #:ascii-character-range
