@@ -1,10 +1,9 @@
+                            nisp.nistilities
+                            ================
+
+
+
 These are just utilities I have had to write at one time or another. I'd
-========================================================================
-
-Author:  <james@lappy>
-Date: 2010-01-03 06:15:37 Local time zone must be set--see zic manual page
-
-
 not say that these are really ready for anyone else to use or even if
 they are the best or most efficient implentations. See the changelog in
 nisp for change history. I generally log all changes to that project
